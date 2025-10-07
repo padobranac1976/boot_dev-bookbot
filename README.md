@@ -1,2 +1,3 @@
-# boot_dev-bookbot
-Book processing bot
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
